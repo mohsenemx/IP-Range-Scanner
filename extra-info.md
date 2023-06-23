@@ -11,3 +11,6 @@ Here is a list of known Iranian IP ranges:
 
 ## IPs owned by Asiatech
 - **185.98.112.xxx** - **185.98.115.xxx**
+
+## IPs owned by Fannavaran-e Idea Pardaz-e (SabaIde)
+- **185.147.178.xxx**
