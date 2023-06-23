@@ -1,0 +1,15 @@
+[
+    {
+        "type" : "one",
+        "range": "185.147.178",
+        "skip" : false,
+        "skipto1" : 0
+    }, 
+    {
+        "type" : "two",
+        "range": "2.147",
+        "skip" : false,
+        "skipto1" : 0,
+        "skipto2" : 0
+    }
+]
