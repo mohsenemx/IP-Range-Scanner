@@ -11,3 +11,4 @@ Here is a list of known Iranian IP ranges:
 
 ## IPs owned by Asiatech
 - **185.98.112.xxx**
+- **185.98.113.xxx**
