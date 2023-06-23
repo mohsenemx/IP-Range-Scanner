@@ -6,5 +6,5 @@ Here is a list of known Iranian IP ranges:
 ## IPs owned by Arvan Cloud
 - **185.143.232.xxx**
 - **185.143.233.xxx**
-- **185.143.234.xxx***
-- **185.143.235.xxx***
+- **185.143.234.xxx**
+- **185.143.235.xxx**
