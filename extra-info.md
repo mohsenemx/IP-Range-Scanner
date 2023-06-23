@@ -10,7 +10,7 @@ Here is a list of known Iranian IP ranges:
 - **185.24.136.xxx** - **185.24.139.xxx**
 
 ## IPs owned by TCI/ICT
-- **217.218.85.xxx** - **217.218.86.185**
+- **217.218.xxx.xxx** - **217.219.xxx.xxx**
 ## IPs owned by Arvan Cloud
 - **185.143.232.xxx** - **185.143.235.xxx**
 
