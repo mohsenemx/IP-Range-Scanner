@@ -29,7 +29,9 @@ Run the app:
 Now just wait until app finishes capturing. this may take a long time. but you can run it in background.
 ### ranges.json
 This file manages what IP ranges should be checked.
+
 You can check out known IP ranges [Here](https://github.com/mohsenemx/IP-Range-Scanner/blob/master/extra-info.md)
+
 Here is the default ranges.json:
 
 ```json
