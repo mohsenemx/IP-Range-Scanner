@@ -2,7 +2,7 @@ Here is a list of known Iranian IP ranges:
 
 ## IPs owned by Irancell
 - **2.147.xxx.xxx**
-- ** 92.42.xxx.xxx**
+- **92.42.xxx.xxx**
 
 ## IPs owned by MCI
 - **5.106.xxx.xxx**
